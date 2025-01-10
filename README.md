@@ -44,9 +44,5 @@ Here are some of my recent or favorite projects:
 ##  🤝 Let's Connect
 |  LinkedIn  |    [logan macurdy](https://www.linkedin.com/in/logan-macurdy-54b704319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app.)  |
 |-|--|
-
-|  Personal Website  |   |
-|-|-|
-
 |  Email  |  lmacurdy315@gmail.com  |
 |-|-|
