@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm an enthusiastic developer and maker, focusing 
 - 🌱 I’m learning **C++**, **large language models**, building **custom AI chabots**, and diving deep into **robotics**.
 - 👯 I’m looking to collaborate on **robotics**, **game development**, and **AI-related** projects.
 - 💬 Ask me about **game development**, **robotics**, or **AI**.
-- 📫 How to reach me via email: lmacurdy315@gmail.com.
 
 ## 🛠️ Technologies & Tools
 ### Languages: 
