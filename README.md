@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm an enthusiastic developer and maker, focusing 
 Here are some of my recent or favorite projects:
 
 ### 1. Robot Head
-![robot image](robot.pnj)
+<img src="robot.png" alt="robot image" width="600">
+
 - **Technologies: Arduino, C++, Servo Motors, Sensors**
 - **Description:** Created a robot head that turns to face the user and expresses different body language based on voice input. Utilizes **Arduino** for hardware control and programming.
 
