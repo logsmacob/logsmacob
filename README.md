@@ -52,4 +52,4 @@ Welcome! I’m Logan, a curious and hands-on developer who enjoys building syste
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [Logan Macurdy](https://www.linkedin.com/in/logan-macurdy-54b704319) |
-| 📧 Email | lmacurdy315@gmail.com |
+| 📧 Email | mailto:lmacurdy315@gmail.com |
