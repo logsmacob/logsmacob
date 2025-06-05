@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @logsmacob
+# 👋 Hi, I’m Logan Macurdy
 
 Welcome! I’m Logan, a curious and hands-on developer who enjoys building systems that blend creativity, logic, and user interaction. My work spans **game development**, **automation**, and **no-code platforms**—with a strong interest in efficient tooling and productivity-focused apps.
 
