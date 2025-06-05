@@ -6,12 +6,16 @@ Welcome! I’m Logan, a curious and hands-on developer who enjoys building syste
 
 ## 🚀 About Me
 
-- ✅ Finished developing **Sketchy Jumps**, a quirky and polished 2D platformer.
-- ✅ Completed a **Drafting Management System (DMS)** to streamline technical drafting workflows.
-- 🧰 Worked with **Google AppSheet** to build internal tools and lightweight database apps.
-- 📚 Currently exploring **game design tooling**, **workflow automation**, and **low-code platforms**.
-- 🤝 Open to collaborating on game dev, productivity systems, and rapid prototyping.
+- Dependable and self-motivated with a strong work ethic
 
+- Clear communicator who stays calm under pressure
+
+- Detail-oriented while keeping the bigger picture in mind
+
+- Adaptable, solution-focused, and open to growth
+
+- Brings a steady, thoughtful presence to teams and projects
+  
 ---
 
 ## 🛠️ Tech Stack
